@@ -1,7 +1,7 @@
 # Gerenciamento de Recursos em um Internet Café Futurista
 
 ## Sobre o Projeto
-Este trabalho tem como objetivo o desenvolvimento de um simulador que gerencie de maneira eficiente a alocação de recursos dentro do ambiente do CyberFlux, utilizando técnicas de sincronização de threads e semáforos para controlar o acesso aos PCs, headsets VR e cadeiras.
+Este trabalho tem como objetivo o estudo de programação concorrente simulando um ambiente de concorrencia de recursos entre diferentes tipos de clientes com diferentes prioridades.
 
 ## Como Rodar
 1. Compile:
